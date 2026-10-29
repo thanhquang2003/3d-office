@@ -16,7 +16,7 @@ Mỗi phiên là một nhân viên robot có bàn riêng:
 
 Mở Claude Code hoặc Codex **trong thư mục dự án của bạn** và gõ:
 
-> Cài văn phòng ảo cho dự án này theo hướng dẫn ở https://github.com/vinaichatbot-rgb/van-phong-ao-3d (đọc file HUONG-DAN-CHO-AGENT.md)
+> Cài văn phòng ảo cho dự án này theo hướng dẫn ở [3D-OFFICE](https://github.com/thanhquang2003/3d-office/) (đọc file HUONG-DAN-CHO-AGENT.md)
 
 Agent sẽ tự làm các bước sau. Những bước có thay đổi bên ngoài thì nó sẽ hỏi bạn trước:
 
@@ -33,8 +33,8 @@ Agent sẽ tự làm các bước sau. Những bước có thay đổi bên ngo�
 Cần **Node.js 18+** (https://nodejs.org), cùng với **Claude Code** hoặc **Codex** đã dùng trên máy.
 
 ```bash
-git clone https://github.com/vinaichatbot-rgb/van-phong-ao-3d.git
-cd van-phong-ao-3d
+git clone https://github.com/thanhquang2003/3d-office.git
+cd 3d-office
 npm run setup
 npm start
 ```
